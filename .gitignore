@@ -2,3 +2,4 @@
 .ipynb_checkpoints/
 ETL Pipeline Preparation-zh.ipynb
 ML Pipeline Preparation-zh.ipynb
+.env/
