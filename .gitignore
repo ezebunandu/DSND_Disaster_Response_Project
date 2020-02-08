@@ -1,5 +1,9 @@
+# Files on the Udacity virtual machine to ignore
 .Trash-0/
 .ipynb_checkpoints/
 ETL Pipeline Preparation-zh.ipynb
 ML Pipeline Preparation-zh.ipynb
+
+# Ignore files from the virtual environment on my local machine
 .env/
+
