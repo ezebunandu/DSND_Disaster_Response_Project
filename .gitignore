@@ -7,3 +7,4 @@ ML Pipeline Preparation-zh.ipynb
 # Ignore files from the virtual environment on my local machine
 .env/
 
+models/ml_pipeline.pkl
